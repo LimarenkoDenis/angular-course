@@ -5,5 +5,5 @@
 
 [Final Project](./FINAL_PROJECT.md)
 
-[Final Project](./SHORT_BY_LESSONS.md)
+[SHORT BY LESSONS](./SHORT_BY_LESSONS.md)
 
