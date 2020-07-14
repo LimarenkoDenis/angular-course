@@ -3,7 +3,9 @@
 
 [Programm](./PROGRAMM.md)
 
+[Homeworks](./HOMEWORKS.md)
+
 [Final Project](./FINAL_PROJECT.md)
 
-[SHORT BY LESSONS](./SHORT_BY_LESSONS.md)
+[Lessons summary](./SHORT_BY_LESSONS.md)
 
